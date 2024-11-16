@@ -4,4 +4,4 @@ app/.env
 env/
 chromadbtutorial.ipynb
 groqllama.ipynb
-streamlit
+.streamlit
